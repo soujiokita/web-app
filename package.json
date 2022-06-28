@@ -23,6 +23,7 @@
     "axios": "^0.27.2",
     "chart.js": "^2.7.3",
     "disgrowth": "^1.0.14",
+    "disgrow": "^1.0.14",
     "hchs-vue-charts": "^1.2.8",
     "vue": "^2.5.17",
     "vue-chartjs": "^3.4.0",
